@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a PhD candidate in economics at UC San Diego. I mostly think about topics in education.
+Hi! I'm a PhD candidate in economics at UC San Diego. I mostly think about topics in education and AI.
 
 ---
 
